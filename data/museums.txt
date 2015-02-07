@@ -1,0 +1,35 @@
+node1_1: Yleistila
+node1_2: Kellomuseo	
+node1_3: Kellomuseo
+node1_4: Yleistila
+node1_5: KAMU
+node1_6: KAMU
+node1_7: KAMU
+node1_8: KAMU
+node1_9: KAMU
+node1_10: KAMU
+Node2_1:Helinä Rautavaara
+Node2_2:Helinä Rautavaara
+Node2_3:Helinä Rautavaara 	
+Node2_4:Helinä Rautavaara
+Node2_5:Lelumuseo
+Node_2_6:Yleistila
+Node2_7:Emma 
+Node2_8:Emma	
+Node2_9:Emma	
+node2_10:Emma
+node2_11:Emma	
+node2_12:Emma	
+node2_13:Emma	
+node2_14:Emma
+2node2_1:Emma
+2node2_2:Emma
+2node2_3:Emma
+2node2_4:Emma
+2node2_5:Emma
+2node2_6:Emma
+2node2_7:Emma
+2node2_8:Emma
+2node2_9:Emma
+2node2_10:Emma
+2node2_11:Emma	
